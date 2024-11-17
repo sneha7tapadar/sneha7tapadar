@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sneha7tapadar
-- 👀 I’m interested in finance 
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
